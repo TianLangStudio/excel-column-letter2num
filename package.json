@@ -4,7 +4,7 @@
   "description": "Converts Excel column name Letter to One Based Index Number(e.g. A->1 AB->28)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "keywords": [
     "excel",
