@@ -2,6 +2,10 @@
   "name": "excel-column-letter-2-number",
   "version": "1.0.0",
   "description": "Converts Excel column name Letter to One Based Index Number(e.g. A->1 AB->28)",
+  "repository" :{ 
+    "type" : "git",
+    "url" : "https://github.com/TianLangStudio/excel-column-letter2num"
+  },
   "main": "index.js",
   "scripts": {
     "test": "mocha"
@@ -14,6 +18,10 @@
     "converts",
     "Ato1"
   ],
-  "author": "TianlangStudio",
-  "license": "ISC"
-}
+  "author":{ 
+    "name" : "TianlangStudio",
+    "email" : "tianlangstuido@aliyun.com",
+    "url" : "https://edu.51cto.com/sd/aca72"
+  }, 
+  "license": "Apache license 2.0"
+} 
