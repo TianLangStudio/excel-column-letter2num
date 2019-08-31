@@ -1,0 +1,19 @@
+{
+  "name": "excel-column-letter-2-number",
+  "version": "1.0.0",
+  "description": "Converts Excel column name Letter to One Based Index Number(e.g. A->1 AB->28)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "excel",
+    "column",
+    "letter",
+    "number",
+    "converts",
+    "Ato1"
+  ],
+  "author": "TianlangStudio",
+  "license": "ISC"
+}
